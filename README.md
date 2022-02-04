@@ -164,6 +164,6 @@ Haar Cascades는 정면의 이미지에는 잘 찾지만 잘못 인식하는 경
   <img src="/asset/images/img.gif" width="70%">
 </div>
 
-[[참고\] dlib, Python을 이용하여 얼굴 검출하기](https://yunwoong.tistory.com/83?category=902343)
-[[참고\] dlib, Python을 이용하여 얼굴 인식하는 방법](https://yunwoong.tistory.com/84?category=902343)
-[[참고\] dlib, Python을 이용하여 강아지 얼굴 인식하는 방법](https://yunwoong.tistory.com/86?category=902343)
+[[참고\] dlib, Python을 이용하여 얼굴 검출하기](https://yunwoong.tistory.com/83?category=902343)<br/>
+[[참고\] dlib, Python을 이용하여 얼굴 인식하는 방법](https://yunwoong.tistory.com/84?category=902343)<br/>
+[[참고\] dlib, Python을 이용하여 강아지 얼굴 인식하는 방법](https://yunwoong.tistory.com/86?category=902343)<br/>
